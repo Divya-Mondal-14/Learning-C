@@ -17,5 +17,6 @@ int main() {
     } else {
         printf("Not old enough to vote.");
     }
-    return 0
+    return 0;
+    
 }
